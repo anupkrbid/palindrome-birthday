@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
 
 :root {
   --primary-color: #818cf8;
@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  font-family: "Oswald", sans-serif;
+  font-family: "Source Code Pro", monospace;
   font-size: large;
   background-color: var(--primary-color);
 }
